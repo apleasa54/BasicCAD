@@ -54,18 +54,20 @@ This is the caster mount, It is a square 120mm by 120mm with four symmetric hole
 
 ### Reflection
  This was my second part on onshape, This part was very simple since all it was dimensioning and extruding. I did this part with no follow along and I felt this was a good oppurtunity to get to know onshape since I already new the basic functions required.
+ 
 ---
 
 
 ## Fork
 
 ### Description
-
+This part kind of has a resemblance to an electrical cord. this part has a circle with two symmetrical "prongs" going out of one side that is 75mm long with fillets on every edge. The other face of the extruded circl has a hollow cylinder extruded to 65mm. The two prongs also have a hole in the top of them to accomodate for the axle
 ### Evidence
 
 ### Image
 
 ### Reflection
+This part wasn't too bad, It was kind of confusing at first, or at least it looked a little compplicated and more intimidating 
 
 ---
 
