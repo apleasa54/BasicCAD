@@ -75,13 +75,14 @@ This part wasn't too bad, It was kind of confusing at first, or at least it look
 ## Tire
 
 ### Description
-
+This is a circular revolute part with that fits around the tire and has the sketch that is a trapezoid and is dimensioned centerline.
 ### Evidence
 
 ### Image
 <img src="https://github.com/apleasa54/BasicCAD/blob/main/tire.png" width="400">
 
 ### Reflection
+This part was harder than the last parts, since we had to use the revolute tool, it was kind of confusing to do at first with the smart dimensioning and the trapezoid and having to actually smart dimension to the construction lines.
 
 ---
 
