@@ -77,7 +77,7 @@ This part wasn't too bad, It was kind of confusing at first, or at least it look
 ### Description
 This is a circular revolute part with that fits around the tire and has the sketch that is a trapezoid and is dimensioned centerline.
 ### Evidence
-
+[The Tire In Onshape](https://cvilleschools.onshape.com/documents/a6828b32fc6c7bdea2690805/w/95d3fbb1ebab3876a25eb354/e/29b74939b2b2a52b4f32eb23)
 ### Image
 <img src="https://github.com/apleasa54/BasicCAD/blob/main/tire.png" width="400">
 
