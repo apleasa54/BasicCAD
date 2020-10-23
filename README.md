@@ -67,7 +67,7 @@ This part kind of has a resemblance to an electrical cord. this part has a circl
 <img src="https://github.com/apleasa54/BasicCAD/blob/main/images/fork.png" width="400">
 
 ### Reflection
-This part wasn't too bad, It was kind of confusing at first, or at least it looked a little compplicated and more intimidating the mount but It was still pretty basic once I got the hang of It. I learned a little more about onshape during making this part, and had new tools such as the fillet and chamfer options introduced to me for the first time while making this part.
+This part wasn't too bad, It was kind of confusing at first, or at least it looked a little complicated and more intimidating than the mount but It was still pretty basic once I got the hang of It. I learned a little more about onshape during making this part, and had new tools such as the fillet and chamfer options introduced to me for the first time while making this part.
 
 ---
 
